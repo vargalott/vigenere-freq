@@ -1,6 +1,6 @@
 # vigenere-freq
 
-[![Build](https://github.com/andinoriel/vigenere-freq/actions/workflows/build.yml/badge.svg)](https://github.com/andinoriel/vigenere-freq/actions/workflows/build.yml)
+[![Build](https://github.com/vargalott/vigenere-freq/actions/workflows/build.yml/badge.svg)](https://github.com/vargalott/vigenere-freq/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Frequency analysis of the Vigenere cipher.
